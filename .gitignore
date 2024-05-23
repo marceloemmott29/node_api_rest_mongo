@@ -1,0 +1,8 @@
+.env
+
+#ignorar node_modules 
+node_modules/
+
+#carpeta data
+mongo/
+
